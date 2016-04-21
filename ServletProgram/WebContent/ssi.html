@@ -1,0 +1,20 @@
+<HTML>
+<HEAD>
+<TITLE>Times!</TITLE>
+</HEAD>
+<BODY>
+	The current time here is:
+	<SERVLET CODE=CurrentTime> </SERVLET>
+	<P>
+		The current time in London is:
+		<SERVLET CODE=CurrentTime>
+		<PARAM NAME=zone VALUE=GMT>
+		</SERVLET>
+	<P>
+		And the current time in New York is:
+		<SERVLET CODE=CurrentTime>
+		<PARAM NAME=zone VALUE=EST>
+		</SERVLET>
+	<P>
+</BODY>
+</HTML>
