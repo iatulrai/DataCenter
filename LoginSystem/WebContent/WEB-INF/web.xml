@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app id="WebApp_ID" version="2.4"
+	xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+	<display-name>LoginSystem</display-name>
+	<servlet>
+		<description>
+		</description>
+		<display-name>Register</display-name>
+		<servlet-name>Register</servlet-name>
+		<servlet-class>com.work.Register</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Register</servlet-name>
+		<url-pattern>/Register</url-pattern>
+	</servlet-mapping>
+
+
+
+	<servlet>
+		<description>
+		</description>
+		<display-name>ChangePassAction</display-name>
+		<servlet-name>ChangePassAction</servlet-name>
+		<servlet-class>com.work.ChangePassAction</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ChangePassAction</servlet-name>
+		<url-pattern>/ChangePassAction</url-pattern>
+	</servlet-mapping>
+
+
+
+
+	<servlet>
+		<description>
+		</description>
+		<display-name>DelUser</display-name>
+		<servlet-name>DelUser</servlet-name>
+		<servlet-class>com.work.DelUser</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>DelUser</servlet-name>
+		<url-pattern>/DelUser</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<description>
+		</description>
+		<display-name>ForgetAction</display-name>
+		<servlet-name>ForgetAction</servlet-name>
+		<servlet-class>com.work.ForgetAction</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ForgetAction</servlet-name>
+		<url-pattern>/ForgetAction</url-pattern>
+	</servlet-mapping>
+
+
+
+
+	<servlet>
+		<description>
+		</description>
+		<display-name>ListUser</display-name>
+		<servlet-name>ListUser</servlet-name>
+		<servlet-class>com.work.ListUser</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ListUser</servlet-name>
+		<url-pattern>/ListUser</url-pattern>
+	</servlet-mapping>
+
+
+
+
+	<servlet>
+		<description>
+		</description>
+		<display-name>Validate</display-name>
+		<servlet-name>Validate</servlet-name>
+		<servlet-class>com.work.Validate</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Validate</servlet-name>
+		<url-pattern>/Validate</url-pattern>
+	</servlet-mapping>
+
+
+
+	<servlet>
+		<description>
+		</description>
+		<display-name>VerifyStatus</display-name>
+		<servlet-name>VerifyStatus</servlet-name>
+		<servlet-class>com.work.VerifyStatus</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>VerifyStatus</servlet-name>
+		<url-pattern>/VerifyStatus</url-pattern>
+	</servlet-mapping>
+
+
+
+
+
+
+
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+</web-app>
