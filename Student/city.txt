@@ -1,0 +1,36 @@
+Nicobar:North and Middle Andaman:South Andaman
+Adilabad:East Godavari:Kadapa:Krishna:Medak:Nizamabad:Srikakulam:Anantapur:Guntur:Karimnagar:Kurnool:Nalgonda:Prakasam:Visakhapatnam:Khammam:Mahabubnagar:Nellore:Rangareddy:Vizianagaram
+Anjaw:East Kameng:Lohit:Papum Pare:Ita Nagar:Upper Siang:West Siang:Changlang:East Siang:Lower Dibang Valley:Tawang:Upper Subansiri:Dibang Valley:Kurung Kumey:Lower Subansiri:Tirap:West Kameng
+Baksa:Dhemaji:Goalpara:Jorhat:Karbi:Anglong:Lakhimpur:Nalbari:Sonitpur:Barpeta:Chirang:Dhubri:Golaghat:Kamrup:Karimganj	Morigaon:North:Cachar:Hills:Tinsukia:Bongaigaon:Darrang:Dibrugarh:Hailakandi:Metropolitan:Kokrajhar:Nagaon:Sivasagar:Udalguri
+Araria:Banka:Bhojpur:East:Jamui:Katihar:Lakhisarai:Munger:Nawada:Rohtas:Saran:Sitamarhi:Vaishali:Arwal:Begusarai:Buxar	:aya:Jehanabad:Khagaria:Madhepura:Muzaffarpur:Patna:Saharsa:Sheikhpura:Siwan:West:Champaran:Aurangabad:Bhagalpur:Darbhanga:Gopalganj:Kaimur (Bhabua):Kishanganj:Madhubani:Nalanda:Purnea:Samastipur:Sheohar:Supaul
+Chandigarh
+Balod:Baloda Bazar:Bastar:Bemetara:Birjapur:Billaspur:Dantewada:Dhamtari:Durg:Gariaband:Jashpur:Janjgir-Champa:Kondagaon:Korba:Koriya:Kanker:Kabirdham:Mahasamund:Mungeli:Narayanpur:Raigarh:Rajnandgaon:Raipur:Surajpur:Sukma:Surguja
+Dadar:Nagar Haveli
+Daman:Diu
+Central Delhi:North Delhi:South Delhi:East Delhi:North East:Delhi South:New Delhi:North West Delhi:West Delhi
+North Goa:South Goa
+Ahmedabad:Banaskantha:Dahod:Jamnagar:Kutch:Navsari:Porbandar:Surat:Valsad:Amreli:Bharuch:Dang:Junagadh:Mehsana:Panchmahals:Rajkot:Surendranagar:Anand	:Bhavnagar:Gandhinagar:Kheda:Narmada:Patan:Sabarkantha:Vadodara
+Ambala:Fatehabad:Jhajjar:Karnal:Mewat:Panipat:Sirsa:Bhiwani:Gurgaon:Jind:Kurukshetra:Palwal:Rewari:Sonipat:Faridabad:Hisar:Kaithal:Mahendragarh:Panchkula:Rohtak:Yamunanagar
+Bilaspur:Kangra:Lahaul And Spiti:Sirmaur:Chamba:Kinnaur:Mandi:Solan:Hamirpur:Kullu:Shimla:Una
+Anantnag:Doda:Kathua:Poonch:Samba:Baramulla:Jammu:Kupwara:Pulwama:Srinagar:Budgam:Kargil:Leh:Rajouri:Udhampur
+Bokaro:Dhanbad:Garhwa:Gumla:Khunti:Lohardaga:Ramgarh:Seraikela-Kharsawan:Chatra:Dumka:Giridih:Hazaribag:Koderma:Pakur:Ranchi:Simdega:Deoghar:EastSinghbhum:Godda:Jamtara:Latehar:Palamu:Sahibganj:West Singhbhum
+Bagalkot:Belgaum:Bijapur:Chikballapur:Davangere:Gulbarga:Kodagu:Mandya:Shimoga:Uttara Kannada:Bangalore:Bellary:Chamrajanagar	:Chitradurga:Dharwad:Hassan:Kolar:Mysore:Tumkur:Bangalore Rural:Bidar:Chickmagalur:Dakshina:Kannada:Gadag:Haveri:Koppal:Raichur:Udupi
+Alappuzha:Kannur:Kottayam:Palakkad:Thrissur:Ernakulam:Kasargod:Kozhikode:Pathanamthitta:Wayanad:Idukki:Kollam:Malappuram:Thiruvananthapuram
+Lakshadweep
+Alirajpur:Balaghat:Bhind:Chhatarpur:Datia:Dindori:Harda:Jabalpur:Khandwa:Mandsaur:Neemuch:Rajgarh:Seoni:Sheopur:Singrauli:Umaria:Anuppur:Barwani:Chhindwara:Dewas:Guna:Hoshangabad:Jhabua:Khargone:Morena:Panna:Ratlam:Satna:Shahdol:Shivpuri:Tikamgarh:Vidisha:Ashoknagar:Betul:Burhanpur:Damoh:Dhar:Gwalior:Indore:Katni:Mandla:Narsinghpur:Raisen:Rewa:Sehore:Shajapur:Sidhi:Ujjain
+Ahmednagar:Buldhana:Gadchiroli:Jalgaon:Latur:Nagpur:Nashik:Pune:Sangli:Solapur:Washim:Akola:Beed:Chandrapur:Gondia:Jalna:MumbaiCity:Nanded:Osmanabad:Raigad:Satara:Thane:Yavatmal:Amravati:Bhandara:Dhule:Hingoli:Kolhapur:Mumbai Suburban:Nandurbar:Parbhani:Ratnagiri:Sindhudurg:Wardha
+Bishnupur:Imphal East:Tamenglong:Chandel:Imphal West:Thoubal:Churachandpur:Senapati:Ukhrul
+Meghalaya
+Aizawl:Lawngtlai:Saiha:Champhai:Lunglei:Serchhip:Kolasib:Mamit
+Dimapur:Longleng:Peren:Wokha:Kephrie:Mokokchung:Phek:Zunheboto:Kohima:Mon:Tuensang
+Angul:Bargarh:Cuttack:Gajapati:Jajpur:Kandhamal:Khordha:Mayurbhanj:Nuapada:Sambalpur:Balangir:Bhadrak:Deogarh:Ganjam:Jharsuguda:Kendrapara:Nabarangpur:Puri:Subarnapur:Balasore:Boudh:Dhenkanal:Jagatsinghapur:Kalahandi:Kendujhar:Malkangiri:Nayagarh:Rayagada:Sundargarh
+Karaikal:Yanam:Mahe:Pondicherry
+Amritsar:Faridkot:Kapurthala:Moga:Patiala:SAS Nagar:Barnala:Fatehgarh:Sahib:Hoshiarpur:Ludhiana:Muktsar:Rupnagar:TarnTaran:Bathinda:Ferozepur:Jalandhar:Mansa:Nawanshahr:Sangrur
+Ajmer:Baran:Bhilwara:Dholpur:Jaipur:Jhalawar:Karauli:Pali:Sawai Madhopur:Sri Ganganagar:Alwar:Barmer:Bikaner:Churu:Dungarpur:Jaisalmer:Jhunjhunu:Kota:Sikar:Tonk:Banswara:Bharatpur:Bundi:Dausa:Hanumangarh:Jalore:Jodhpur:Nagaur:Rajsamand:Sirohi:Udaipur
+Sikkim
+Ariyalur:Cuddalore:Karur:Nagapattinam:Pudukkottai:Sivaganga:Theni:Tirunelveli:Tiruvarur:Virudhunagar:Chennai:Dharmapuri:Kanchipuram:Krishnagiri:Namakkal:Ramanathapuram:Thanjavur:Thoothukudi:Tiruvallur:Vellore:Coimbatore:Dindigul:Kanyakumari:Madurai:Perambalur:Salem:The Nilgiris:Tiruchirappalli:Tiruvannamalai:Viluppuram
+Warangal:West Godavari:Chittoor:Hyderabad
+Dhalai:West Tripura:North Tripura:South Tripura
+Agra:Ambedkar Nagar:Bagpat:Balrampur:Bareilly:Budaun:Chitrakoot:Etawah:Fatehpur:Ghaziabad:Gorakhpur:Hapur:Hathras:Jhansi:Kanpur Dehat:Kheri:Lucknow:Mainpuri:Meerut:Muzaffarnagar:RaeBareli:Sant Kabir Nagar:Shravasti:Sonbhadra:Varanasi:Aligarh:Auraiya:Bahraich:Banda:Basti:Bulandshahar:Deoria:Faizabad:Firozabad:Ghazipur:Jalaun:Jyotiba Phule Nagar:Kanpur Nagar:Kushinagar:Maharajganj:Mathura:Mirzapur:Pilibhit:Rampur:Sant Ravidas Nagar:Siddharthnagar:Sultanpur:Allahabad:Azamgarh:Ballia:Barabanki:Bijnor:Chandauli:Etah:Farrukhabad:Gautam Buddha Nagar:Gonda:Hardoi:Jaunpur:Kannauj:Kaushambi:Lalitpur:Mahoba:Mau:Moradabad:Pratapgarh:Saharanpur:Shahjahanpur:Sitapur:Unnao
+Almora:Champawat:Nainl:Rudraprayag:Uttarkashi:Bageshwar:Dehradun:Pauri:Tehri:Garhwal:Chamoli:Haridwar:Pithoragarh:Udham Singh Nagar
+Bankura:Cooch Behar:Hooghly:Malda:North 24 Parganas:South 24 Parganas:Bardhaman:Darjeeling:Howrah:Murshidabad:North Dinajpur:South Dinajpur:Birbhum:East Medinipur:Jalpaiguri:Nadia:Purulia:West Medinipur:DurgaPur:Kolkata
