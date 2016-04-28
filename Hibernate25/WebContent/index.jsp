@@ -1,4 +1,4 @@
-<%@page import="java.util.List"%>
+
 <%@page import="org.hibernate.Criteria"%>
 <%@page import="pac.Student"%>
 <%@page import="org.hibernate.Transaction"%>
