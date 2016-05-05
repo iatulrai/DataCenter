@@ -13,7 +13,7 @@ import org.hibernate.cfg.Configuration;
  * object.
  *
  * @author Atul Rai
- */
+ */	
 public class HU {
 
 	private static final SessionFactory sessionFactory;
